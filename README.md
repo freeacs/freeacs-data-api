@@ -4,7 +4,7 @@ For now only used by
 https://github.com/freeacs/freeacs-web
 
 # Setup
-1. git clone git@github.com:freeacs/freeacs-data-api.git
+1. git clone `git@github.com:freeacs/freeacs-data-api.git`
 2. cd freeacs-data-api
 3. git submodules init
 4. git submodules update
