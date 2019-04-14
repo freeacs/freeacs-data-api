@@ -75,7 +75,7 @@ public class JwtTokenProvider {
         }
     }
 
-    static class InvalidAuthenticationException extends AuthenticationException {
+    public static class InvalidAuthenticationException extends AuthenticationException {
         InvalidAuthenticationException(String e) {
             super(e);
         }
