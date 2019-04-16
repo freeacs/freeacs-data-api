@@ -6,8 +6,8 @@ https://github.com/freeacs/freeacs-web
 # Setup
 1. git clone `git@github.com:freeacs/freeacs-data-api.git`
 2. cd freeacs-data-api
-3. git submodules init
-4. git submodules update
+3. git submodule init
+4. git submodule update
 5. mvn install
 
 # Run api project
